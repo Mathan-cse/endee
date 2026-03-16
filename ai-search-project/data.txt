@@ -1,0 +1,5 @@
+Java developer with Spring Boot experience
+Python developer with Machine Learning skills
+Frontend developer with React and JavaScript
+Data analyst with SQL and Power BI
+Backend developer with Node.js
